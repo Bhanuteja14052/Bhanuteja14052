@@ -1,8 +1,5 @@
 <h1 align="left">👋 Hey Developers</h1>
 
-###
-
-<h4 align="left">My name is Bhanu Teja Gummadavelli.</h4>
 
 ###
 
